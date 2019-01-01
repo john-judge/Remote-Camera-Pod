@@ -1,5 +1,5 @@
- #Remote Camera Pod
- a 2015 experiment in remotely controlling cameras for HDRunners.com
+ # Remote Camera Pod
+ A 2015 experiment in remotely controlling cameras for HDRunners.com
  This was my first project working with Python back in 2015. 
  It may still prove useful, so putting it here just in case.
 It provides a mouse-click GUI for sending LANC commands to a Canon G30 camcorder for:
