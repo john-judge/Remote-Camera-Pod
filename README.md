@@ -1,7 +1,6 @@
  # Remote Camera Pod
  A 2015 experiment in remotely controlling cameras for HDRunners.com
- This was my first project working with Python back in 2015. 
- I almost lost this project, so putting it here for safekeeping, not planning to improve it (although it could be improved and cleaned up in a multitude of ways). This was only a small scripting project but easily could be a very ambitious operation.
+ 
 It provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</sup> to a Canon G30 camcorder for:
 - zoom (1X to 20X)
 - start/stop recording
@@ -15,3 +14,9 @@ It provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</s
  * stepper motors to pan and tilt the camcorder
  
  <sup>1</sup> via [ELM624](http://www.appliedlogiceng.com/index_files/Page1389.htm)
+
+
+# Additional Information
+
+This was my first project working with Python back in 2015. 
+I created this repo to avoid losing this project; not currently planning to improve it (although it could be improved and cleaned up in a multitude of ways). This was only a small scripting project but easily could be a very ambitious operation.
