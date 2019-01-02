@@ -19,4 +19,4 @@ It provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</s
 # Additional Information
 
 This was my first project working with Python back in 2015. 
-I created this repo to avoid losing this project; not currently planning to improve it (although it could be improved and cleaned up in a multitude of ways). This was only a small scripting project but easily could be a very ambitious operation.
+I created this repo to avoid losing this project; I'm not currently planning to improve it (although it could be improved and cleaned up in a multitude of ways). This was only a small scripting project but easily could be a very ambitious operation.
