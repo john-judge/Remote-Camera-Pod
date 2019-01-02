@@ -10,7 +10,7 @@ It provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</s
  Could implement:
  * faster, easier user-control (keyboard or other?)
  * manual/auto focus
- * remote client over SSH
+ * remote over SSH, very important
  * saving a user-defined "home" configuration to return to quickly when requested
  * stepper motors to pan and tilt
  
