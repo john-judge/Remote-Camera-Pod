@@ -6,9 +6,9 @@ It provides a mouse-click GUI (with Tkinter) for sending LANC commands (via ELM6
  zoom (1X to 20X), start/stop recording, cam wake/sleep
 
  Could implement:
- *faster, easier user-control (keyboard or other?)
- *manual/auto focus
- *remote client over SSH
- *saving a user-defined "home" configuration to return to quickly when requested
- *stepper motors to pan and tilt
+ * faster, easier user-control (keyboard or other?)
+ * manual/auto focus
+ * remote client over SSH
+ * saving a user-defined "home" configuration to return to quickly when requested
+ * stepper motors to pan and tilt
  
