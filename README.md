@@ -1,5 +1,6 @@
  # Remote Camera Pod
- A 2015 experiment in remotely controlling cameras
+ 
+ 
 Provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</sup> to a Canon G30 camcorder for:
 - zoom (1X to 20X)
 - start/stop recording
