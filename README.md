@@ -12,4 +12,4 @@ It provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</s
  * saving a user-defined "home" configuration to return to quickly when requested
  * stepper motors to pan and tilt
  
- <sup>1</sup> via ELM624, [Link](http://www.appliedlogiceng.com/index_files/Page1389.htm)
+ <sup>1</sup> via [ELM624](http://www.appliedlogiceng.com/index_files/Page1389.htm)
