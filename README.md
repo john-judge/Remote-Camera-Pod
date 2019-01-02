@@ -7,6 +7,7 @@ It provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</s
 - cam wake/sleep
 
  Ways it could be improved:
+ * object orient
  * manual/auto focus
  * faster, easier control interface (keyboard input, or other?)
  * low-latency remote control over SSH; perhaps an in-terminal control (maybe using Python *curses* instead of Tkinter)
