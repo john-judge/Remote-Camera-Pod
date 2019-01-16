@@ -2,7 +2,7 @@
  
  
 Provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</sup> to a Canon G30 camcorder for:
-- zoom (1X to 20X)
+- zoom (1X to 20X) with adjustable zoom speed
 - start/stop recording
 - cam wake/sleep
 
