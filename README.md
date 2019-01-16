@@ -7,10 +7,9 @@ Provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</sup>
 - cam wake/sleep
 
  Ways it could be improved:
- * object orient
  * manual/auto focus
  * faster, easier control interface (keyboard input, or other?)
- * low-latency remote control over SSH; perhaps an in-terminal control (maybe using Python *curses* instead of Tkinter)
+ * low-latency remote control over SSH
  * saving a user-defined "home" configuration (for now, that means only a chosen zoom) to return to quickly when requested (a *Reset Home Config* feature)
  * stepper motors to pan and tilt the camcorder
  
@@ -19,5 +18,5 @@ Provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</sup>
 
 # Additional Information
 
-This was my first project working with Python back in 2015, intended for HDRunners.com. 
-I created this repo to avoid losing this project; I'm not currently planning to improve it (although it could be improved and cleaned up in a multitude of ways). This was only a small scripting project but easily could be a very ambitious operation.
+This was my first project working with Python back in 2015, intended for HDRunners.com. I tested it back in Sept 2015 but haven't touched it since.
+I created this repo to avoid losing this project; I'm not currently planning to improve it (although it could be improved and cleaned up in a multitude of ways). This was only a small scripting project but easily could be grown into a very ambitious project.
