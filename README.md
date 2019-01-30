@@ -9,7 +9,7 @@ Provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</sup>
  Ways it could be improved:
  * manual/auto focus
  * faster, easier control interface (keyboard input, or other?)
- * low-latency remote control over SSH
+ * low-latency remote control over SSH or sockets
  * saving a user-defined "home" configuration (for now, that means only a chosen zoom) to return to quickly when requested (a *Reset Home Config* feature)
  * stepper motors to pan and tilt the camcorder
  
