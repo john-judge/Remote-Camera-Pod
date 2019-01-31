@@ -16,7 +16,7 @@ def getconnectcom():
                 break 
         except:
             pass  
-                   
+        
 #set internal commands
 def set_internalcmds(): #check sync and identify and set to continuous repeating cmds
     ser.write('AT CS\r\n')
