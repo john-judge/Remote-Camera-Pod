@@ -18,5 +18,5 @@ Provides a mouse-click GUI (with Tkinter) for sending LANC commands <sup>1</sup>
 
 # Additional Information
 
-This was my first project working with Python back in 2015, intended for HDRunners.com. I tested it back in Sept 2015 but haven't touched it since.
+This was my first project working with Python back in 2015 with G. Balaji, intended for HDRunners.com. I tested it back in Sept 2015 but haven't touched it since.
 I created this repo to avoid losing this project; I'm not currently planning to improve it (although it could be improved and cleaned up in a multitude of ways). This was a small scripting project but easily could be grown into a very ambitious project if features that require network, mobile, & socket programming, or robotics, are implemented.
